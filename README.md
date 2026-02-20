@@ -14,7 +14,7 @@ I am currently pursuing a Bachelor's Degree in Computer Science with a minor in 
   - Web design and Programming
   - Education
 
--I'm currently working on a few personal projects:
+- I'm currently working on a few personal projects:
   - Personal File Server
   - Personal Website
   - Audio Spectrum Visualizer
