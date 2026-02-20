@@ -20,7 +20,7 @@ I am currently pursuing a Bachelor's Degree in Computer Science with a minor in 
   - Audio Spectrum Visualizer
   - C++ Tetris Clone w/ Raylib
 
-- For more information, please visit my [website](https://dyeaman.com), or feel free to contact me directly!
+- For more information, please visit my [website](https://dyeaman.com/), or feel free to contact me directly!
 
 
 <!--
