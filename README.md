@@ -1,21 +1,21 @@
 ## Hello and Welcome!
 
 My name is Daniel, I am a programmer and Student.
-I am currently pursuing a Bachelor's Degree in Computer Science with a minor in Electrical and Computer Engineering.
+I am currently pursuing a Bachelor's Degree in Computer Science.
 
-- I'm currently looking for internship/apprenticeship/part-time employment opportunities in any computer-related field.
+- I'm currently looking for internship or full-time employment opportunities in any software development or computer-related field.
 
 - Some areas of interest of mine include:
+  - Software Engineering
   - Computer Hardware/Architecture
   - UI Design/Programming
-  - Software Engineering
   - Information Technology and Support
-  - PC Building and Troubleshooting
+  - PC Hardware and Troubleshooting
   - Web design and Programming
   - Education
 
 - I'm currently working on a few personal projects:
-  - Personal File Server
+  - Personal Finance Dashboard
   - Personal Website
   - Audio Spectrum Visualizer
   - C++ Tetris Clone w/ Raylib
