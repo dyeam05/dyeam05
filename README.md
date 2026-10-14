@@ -1,18 +1,18 @@
 ## Hello and Welcome!
 
-My name is Daniel, I am a programmer and Student.
-I am currently pursuing a Bachelor's Degree in Computer Science.
+My name is Daniel, I am a Software Developer and Student.
+I am currently pursuing a Bachelor's Degree and Master's Degree in Computer Science.
 
-- I'm currently looking for internship or full-time employment opportunities in any software development or computer-related field.
+- I am also seeking internship or full-time employment opportunities in software development and other computer-related fields.
 
 - Some areas of interest of mine include:
   - Software Engineering
+  - WebApp and Website Development
+  - Full-Stack Development
   - Computer Hardware/Architecture
   - UI Design/Programming
-  - Information Technology and Support
   - PC Hardware and Troubleshooting
-  - Web design and Programming
-  - Education
+  - Computer Science Education
 
 - I'm currently working on a few personal projects:
   - Personal Finance Dashboard
@@ -21,19 +21,3 @@ I am currently pursuing a Bachelor's Degree in Computer Science.
   - C++ Tetris Clone w/ Raylib
 
 - For more information, please visit my [website](https://dyeaman.com/), or feel free to contact me directly!
-
-
-<!--
-**dyeam05/dyeam05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
