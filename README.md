@@ -7,7 +7,7 @@ I am currently pursuing a Bachelor's Degree and Master's Degree in Computer Scie
 
 - Some areas of interest of mine include:
   - Software Engineering
-  - WebApp and Website Development
+  - Web App and Website Development
   - Full-Stack Development
   - Computer Hardware/Architecture
   - UI Design/Programming
